@@ -1,4 +1,4 @@
-Setup Notes & Troubleshooting
+# Setup Notes & Troubleshooting
 Versions Installed
 OS: Ubuntu 22.04 (via WSL2 on Windows)
 
