@@ -8,7 +8,7 @@ ROS 2: Humble Hawksbill
 
 Autopilot: ArduPilot SITL
 
-Problems Hit and Solutions
+##Problems Hit and Solutions
 1. Issue: SITL "Waiting for heartbeat" (Stuck on boot)
 
 Problem: When running sim_vehicle.py, MAVProxy would start but wait for a heartbeat indefinitely. SITL failed to boot its background console.
